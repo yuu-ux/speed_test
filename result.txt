@@ -1,0 +1,37 @@
+
+Running div with argument 1000
+real	0m0.003s
+
+Running flag with argument 1000
+real	0m0.011s
+
+Running bit with argument 1000
+real	0m0.011s
+
+Running div with argument 10000
+real	0m0.045s
+
+Running flag with argument 10000
+real	0m0.018s
+
+Running bit with argument 10000
+real	0m0.017s
+
+Running div with argument 100000
+real	0m0.178s
+
+Running flag with argument 100000
+real	0m0.178s
+
+Running bit with argument 100000
+real	0m0.177s
+
+Running div with argument 1000000
+real	0m1.783s
+
+Running flag with argument 1000000
+real	0m1.862s
+
+Running bit with argument 1000000
+real	0m1.816s
+
